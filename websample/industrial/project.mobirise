@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Mohd Hafiz Othman | Industrial Website",
+    "name": "hafizothman.com | Industrial Company",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#fd5f00"
@@ -48,13 +48,20 @@
     "uniqCompNum": 15,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/hero-1-128x61.png"
+    "favicon": "@PROJECT_PATH@/assets/images/hero-1-128x61.png",
+    "noImageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "hafizothman.com | Industrial Company",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
