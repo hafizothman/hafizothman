@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "hafizothman.com | Pereka Multimedia & Pengiklan Digital di Malaysia",
-    "currentPage": "work.html",
+    "name": "hafizothman.com | Multimedia & Pengiklanan di Malaysia",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "hafizothman.com | Pereka Multimedia & Pengiklan Digital di Malaysia",
+        "title": "hafizothman.com | Multimedia & Pengiklanan di Malaysia",
         "meta_descr": "Selamat datang ke laman web portfolio rasmi saya. Saya akan mempamerkan kemahiran digital saya dalam reka bentuk grafik, llustrasi, manipulasi imej, model 3D, reka bentuk laman web, teknologi realiti maya, foto 360, grafik gerak, animasi filem, video dan penyuntingan audio.",
         "header_custom": "",
         "footer_custom": "",
